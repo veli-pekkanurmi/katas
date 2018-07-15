@@ -1,3 +1,4 @@
+package com.kattis;
 import java.util.Scanner;
 
 public class TakeTwoStones {
