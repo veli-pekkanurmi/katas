@@ -13,7 +13,6 @@ public class BouncingBalls {
 
 		while (newHeight > 1) {
 			bounces += 1;
-			//newHeight = newHeight * bounceProportion;
 			newHeight *= bounceProportion;
 		}
 
